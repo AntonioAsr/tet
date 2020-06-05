@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tet/static/css/main.5f361e03.chunk.css",
+    "main.js": "/tet/static/js/main.433716ca.chunk.js",
+    "main.js.map": "/tet/static/js/main.433716ca.chunk.js.map",
+    "runtime-main.js": "/tet/static/js/runtime-main.a5bf8f4d.js",
+    "runtime-main.js.map": "/tet/static/js/runtime-main.a5bf8f4d.js.map",
+    "static/js/2.af903c5a.chunk.js": "/tet/static/js/2.af903c5a.chunk.js",
+    "static/js/2.af903c5a.chunk.js.map": "/tet/static/js/2.af903c5a.chunk.js.map",
+    "index.html": "/tet/index.html",
+    "precache-manifest.43d715fe49341ab8e7a3d4123549c3d8.js": "/tet/precache-manifest.43d715fe49341ab8e7a3d4123549c3d8.js",
+    "service-worker.js": "/tet/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/tet/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.af903c5a.chunk.js.LICENSE.txt": "/tet/static/js/2.af903c5a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/tet/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5bf8f4d.js",
+    "static/js/2.af903c5a.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.433716ca.chunk.js"
+  ]
+}
